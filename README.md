@@ -38,3 +38,7 @@
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=h=django&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
+<br/>
+
+### GitHub Stats 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminousol&theme=graywhite&show_icons=true)
