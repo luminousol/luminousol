@@ -1,9 +1,9 @@
 ### Nice to meet you 🐣
 
 <p>
-  👋&nbsp; Hi there! I'm <b>BackEnd developer</b> skilled in WEB.🌍<br/>
-  I'm currently learning <b>JAVA development</b> to become a junior developer🧑‍💻.<br/>
-  At present, I have been interested in learning the basics of the Java language and Spring🤓.<br/>
+  👋&nbsp; Hi there! I'm <b>BackEnd developer</b> skilled in WEB.🌍<br/><br/>
+  I'm currently learning <b>JAVA development</b> to become a junior developer🧑‍💻.
+  At present, I have been interested in learning the basics of the Java language and Spring🤓.
   Someday, I want to become a cool developer who handles various things such as web and app used by many people.<br/><br/>
   I enjoy swimming🏊‍♂️, eye shopping✨, watching Netflix & singer stage videos🎥 and walking the dogs🐕.<br/><br/>
   I hope to develop about my favorite things.💕💗💖<br/><br/>
