@@ -1,7 +1,7 @@
 ### Nice to meet you 🐣
 
 <p>
-  👋&nbsp; Hi there! I'm <b>BackEnd developer</b> skilled in WEB.🚀<br/>
+  👋&nbsp; Hi there! I'm <b>BackEnd developer</b> skilled in WEB.🌍<br/>
   I'm currently learning <b>JAVA development</b> to become a junior developer🧑‍💻.<br/>
   At present, I have been interested in learning the basics of the Java language and Spring🤓.<br/>
   Someday, I want to become a cool developer who handles various things such as web and app used by many people.<br/><br/>
