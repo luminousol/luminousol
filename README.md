@@ -10,49 +10,31 @@
 </p>
 
 ### More about me 🐥
+✉️ How to reach me
+<p>
 <a href="https://luminousolding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:luminousolding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <br/>
 
+#### Tech Stack 🖥️
 ⚡ I used this as main
 
-<img src="https://img.shields.io/badge/java-007396?style=flat&log=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&log=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring_security-6DB33F?style=flat&logo=springboot&logoColor=white">
+<p>
+    <img src="https://img.shields.io/badge/java-007396?style=flat&log=java&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&log=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/spring_security-6DB33F?style=flat&logo=springboot&logoColor=white">
+</p>
 
 💡 I know how to use some functions
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=h&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=h&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=h=django&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**luminousol/luminousol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=h&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=h&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=h=django&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
+</p>
