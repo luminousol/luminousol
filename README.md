@@ -37,9 +37,6 @@
 </p>
 <br/>
 
-### GitHub Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminousol&theme=graywhite&show_icons=true)
-
 
 <!--
 ### GitHub Stats 📊
