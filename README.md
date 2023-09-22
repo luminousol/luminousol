@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/spring_security-6DB33F?style=flat&logo=springboot&logoColor=white">
 </p>
-
+<!--
 💡 I know how to use some functions
 
 <p>
@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=h=django&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
+-->
+
 <br/>
 
 ### GitHub Stats 📊
