@@ -12,7 +12,7 @@
 ### How to reach me ✉️
 <p>
 <a href="https://luminousolding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
-<a href="mailto:luminousolding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:luminousolding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luminousolding@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### Tech Stack 🖥️
