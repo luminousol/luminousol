@@ -10,7 +10,6 @@
 </p>
 
 
-
 ### How to reach me ✉️
 <p>
 <a href="https://luminousolding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -38,6 +37,8 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
 -->
+
+###Education 📖
 
 <br/>
 
